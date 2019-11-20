@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+/* google fonts */
+
+h1 {
+    font-family: 'Pacifico', sans-serif;
+}
+
+@font-face {
+    font-family: 'sf_cartoonist_handregular';
+    src: url('../assets/SF_Cartoonist_Hand-webfont.eot');
+    src: url('../assets/SF_Cartoonist_Hand-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../assets/SF_Cartoonist_Hand-webfont.woff2') format('woff2'),
+         url('../assets/SF_Cartoonist_Hand-webfont.woff') format('woff'),
+         url('../assets/SF_Cartoonist_Hand-webfont.ttf') format('truetype'),
+         url('../assets/SF_Cartoonist_Hand-webfont.svg#sf_cartoonist_handregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+h2 {
+    font-family: 'sf_cartoonist_handregular', sans-serif;
+}
+
+p {
+    font-family: 'sf_cartoonist_handregular', sans-serif;
+}
